@@ -14,6 +14,6 @@ class DarkOperation:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,idea,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" />
   </a>
 </p>
