@@ -13,9 +13,9 @@ class DarkOperation:
         
 ```
 
-<a href="https://discord.com/users/1063511434740371567" style="text-align: center;"><img src="https://lanyard.cnrad.dev/api/1063511434740371567"></a>
-
 <p align="center">
+  <a href="https://discord.com/users/1063511434740371567" style="text-align: center;"><img src="https://lanyard.cnrad.dev/api/1063511434740371567"></a>
+    <br>
   <h1>Skills</h1><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" />
