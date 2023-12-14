@@ -18,7 +18,7 @@ class DarkOperation:
     <br>
   <h1>Skills</h1><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" style="text-align: center" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true" style="text-align: center">
 </p>
