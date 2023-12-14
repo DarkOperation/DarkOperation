@@ -15,10 +15,12 @@ class DarkOperation:
 
 <p align="center">
   <a href="https://discord.com/users/1063511434740371567" style="text-align: center;"><img src="https://lanyard.cnrad.dev/api/1063511434740371567"></a>
-    <br>
+  <br>
   <h1>Skills</h1><br>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="text-align: center">
     <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" style="text-align: center" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true" style="text-align: center">
+  <p style="text-align: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DarkOperation&theme=tokyonight&show_icons=true" style="text-align: center">
+  </p>
 </p>
