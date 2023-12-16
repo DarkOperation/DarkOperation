@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 ```python
 class DarkOperation:
@@ -8,7 +8,12 @@ class DarkOperation:
         telegram = "t.me/@fleet404"
         email = ""
         return {"langs": langs, "discord": discord, "telegram": telegram}
-     
+
+    def coding():
+        code_lang = ["python", "java(in learning)", "css", "javascript(Browser), "html"]
+        IDEs = ["InteliJ Idea", "PyCharm", "WebStorm"]
+
+        return {"programming_langs": code_langs, "ides": IDEs}
 ```
 
 <p align=center>
@@ -18,13 +23,16 @@ class DarkOperation:
 </p>
 
 <br>
-<h1 style="text-align: center;">Skills</h1><br>
+<h2 align="center">Skills</h2>
+<br>
 <p href="https://discord.gg/darkoperation" align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css">
     </a>
 </p>
-
-
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=DarkOperation&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|:---:|:---:|
-|[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarkOperation&theme=tokyonight&layout=compact)](https://wakatime.com/dmitrijkotov634)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOperation&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
+<br>
+<h2 align=center>Stats</h2>
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=DarkOperation&theme=tokyonight&show_icons=true"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOperation&theme=tokyonight&layout=compact&langs_count=6">
+</p>
