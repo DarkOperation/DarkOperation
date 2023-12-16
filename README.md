@@ -13,14 +13,12 @@ class DarkOperation:
         
 ```
 
-<p align="center">
-  <a href="https://discord.com/users/1063511434740371567" style="text-align: center;"><img src="https://lanyard.cnrad.dev/api/1063511434740371567"></a>
-  <br>
-  <h1>Skills</h1><br>
-  <a href="https://skillicons.dev" style="text-align: center">
-    <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" style="text-align: center" />
-  </a>
-  <p style="text-align: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarkOperation&theme=tokyonight&show_icons=true" style="text-align: center">
-  </p>
+<a href="https://discord.com/users/1063511434740371567" style="text-align: center;"><img src="https://lanyard.cnrad.dev/api/1063511434740371567" style="text-align: center;"></a>
+<br>
+<h1 style="text-align: center;">Skills</h1><br>
+<a href="https://skillicons.dev" style="text-align: center">
+  <img src="https://skillicons.dev/icons?i=python,java,idea,arduino,javascript,html,css" style="text-align: center" />
+</a>
+<p style="text-align: center">
+<img src="https://github-readme-stats.vercel.app/api?username=DarkOperation&theme=tokyonight&show_icons=true" style="text-align: center">
 </p>
