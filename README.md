@@ -10,7 +10,7 @@ class DarkOperation:
         return {"langs": langs, "discord": discord, "telegram": telegram}
 
     def coding():
-        code_lang = ["python", "java(in learning)", "css", "javascript(Browser), "html"]
+        code_lang = ["python", "java(in learning)", "css", "javascript", "html"]
         IDEs = ["InteliJ Idea", "PyCharm", "WebStorm"]
 
         return {"programming_langs": code_langs, "ides": IDEs}
