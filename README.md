@@ -6,14 +6,12 @@ class DarkOperation:
         langs = ["Russian", "English(Medium)"]
         discord = "@darkoperation"
         telegram = "t.me/@fleet404"
-        email = ""
-        return {"langs": langs, "discord": discord, "telegram": telegram}
+        email = "darkoperation.original@gmail.com"
 
     def coding():
         code_lang = ["python", "java(in learning)", "css", "javascript", "html"]
         IDEs = ["InteliJ Idea", "PyCharm", "WebStorm"]
-
-        return {"programming_langs": code_langs, "ides": IDEs}
+        os = ["Arch Linux", "Windows"]
 ```
 
 <p align=center>
